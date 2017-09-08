@@ -10,5 +10,7 @@ include ("codigophp.php");
 
 
 ?>
+	
+<p>aqwrqt</p>	
 </body>
 </html>
